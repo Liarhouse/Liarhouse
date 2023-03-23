@@ -49,12 +49,14 @@
 <div align=center>
   <p>💡Project</p>
   <a href=[https://github.com/Liarhouse/python_mini_project>
-    <img src="http://img.shields.io/badge/-python_project-655ced?style=flat&logo=Python&link=https://github.com/xhdixhfl/JMT_restaurant_List.git" />
+    <img src="http://img.shields.io/badge/-Python_project-FF6F00?style=flat&logo=Python" />
   <a href=https://github.com/Liarhouse/R_project.git>
-    <img src="http://img.shields.io/badge/-R_project-276DC3?style=flat&logo=R&link=https://github.com/xhdixhfl/Retail-Data.git" />
+    <img src="http://img.shields.io/badge/-R_project-EE4C2C?style=flat&logo=R" />
     <br>
   <a href=https://github.com/Liarhouse/ML_Project>
-    <img src="http://img.shields.io/badge/-ML_project-7EBC6F?style=flat&logo=Jupyter&link=https://github.com/xhdixhfl/Spaceship_Titanic.git" />
+    <img src="http://img.shields.io/badge/-ML_project-7EBC6F?style=flat&logo=Jupyter" />
   <a href=https://github.com/Liarhouse/DL_Project>
-    <img src="http://img.shields.io/badge/-DL_project-D00000?style=flat&logo=TensorFlow&link=https://github.com/xhdixhfl/DeepLearning-Project.git" />
+    <img src="http://img.shields.io/badge/-DL_project-655ced?style=flat&logo=TensorFlow" />
+  <a href=>
+    <img src="http://img.shields.io/badge/-Final_project-276DC3?style=flat&logo=PyTorch" />
 </div>
